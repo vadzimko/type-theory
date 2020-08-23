@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="784f438b-814f-4885-a298-13bb43bb867b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>totalTypes</find>
+      <find>simplifyOne</find>
+      <find>typeNameBefore</find>
+      <find>simplifyMany</find>
+      <find>types</find>
+      <find>reduceEquations</find>
+      <find>typeName</find>
+      <find>clearEquations</find>
+      <find>needsRe</find>
+      <find>prin</find>
+      <find>needsReplacement</find>
+      <find>result</find>
+      <find>substitution</find>
+      <find>resul</find>
+      <find>withoutX</find>
+      <find>withoutHead</find>
+      <find>unifiedEquations</find>
+      <find>buildTypeSubstitution</find>
+      <find>simplify</find>
+      <find>makeUnification</find>
+      <find>Printf</find>
+      <find>print_list</find>
+      <find>defaultContext</find>
+      <find>printSolution</find>
+      <find>curr</find>
+      <find>expr_to_string</find>
+      <find>context</find>
+      <find>n</find>
+      <find>h</find>
+      <find>build</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>expr</replace>
+      <replace>join</replace>
+      <replace>cleaned_line</replace>
+      <replace>rightContext</replace>
+      <replace>rightType</replace>
+      <replace>currType</replace>
+      <replace>tree_to_string</replace>
+      <replace>allTypes</replace>
+      <replace>typeNameBefore</replace>
+      <replace>substitute</replace>
+      <replace>oldType</replace>
+      <replace>apply</replace>
+      <replace>contains</replace>
+      <replace>tail</replace>
+      <replace>withoutHead</replace>
+      <replace>filtered</replace>
+      <replace>equations</replace>
+      <replace>unification</replace>
+      <replace>offset</replace>
+      <replace>repeatUnification</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectId" id="1fbLt3pxuCpNhcQynW7Rfoq5boi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="784f438b-814f-4885-a298-13bb43bb867b" name="Default Changelist" comment="" />
+      <created>1572130082307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572130082307</updated>
+      <workItem from="1572130083741" duration="3424000" />
+      <workItem from="1572798035255" duration="8080000" />
+      <workItem from="1573079845823" duration="72000" />
+      <workItem from="1573250431748" duration="29000" />
+      <workItem from="1574666961730" duration="2453000" />
+      <workItem from="1574888645212" duration="96000" />
+      <workItem from="1575801132915" duration="46378000" />
+      <workItem from="1576001178303" duration="27000" />
+      <workItem from="1596482058936" duration="602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
